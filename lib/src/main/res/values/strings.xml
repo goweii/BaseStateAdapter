@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lib</string>
+
+    <string name="holder_empty_state_text">暂时没有相关内容</string>
+</resources>

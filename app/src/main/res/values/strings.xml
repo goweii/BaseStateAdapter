@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseStateAdapter</string>
+    <string name="holder_empty_state_text">这是在资源文件中重新指定的文字</string>
+</resources>
